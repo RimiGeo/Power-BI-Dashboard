@@ -43,3 +43,4 @@ The analysis was driven by the following key insights extracted from the data:
 * **Geographical Performance:** The UK and India are the dominant sales territories, while the USA and New Zealand represent the largest opportunities for improvement.
 * **Product Performance:** Sales are heavily skewed towards high-volume products like **Peanut Butter Cubes**.
 * **Individual Performance:** Sales results show a clear top-tier of performers who could potentially lead training initiatives.
+https://gamma.app/docs/Sales-Performance-Review-Q1-Q3-2022-10bdeavxgclpub7?mode=doc
